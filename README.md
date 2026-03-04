@@ -1,6 +1,6 @@
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yutia-K&utm_content=line">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yutia-K&utm_content=farm">
   <img
-    src="https://render.gitanimals.org/lines/Yutia-K"
+    src="https://render.gitanimals.org/farms/Yutia-K"
     width="600"
     height="500"
   />
