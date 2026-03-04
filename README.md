@@ -1,5 +1,4 @@
-
-\<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yutia-K&utm_content=farm">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yutia-K&utm_content=farm">
   <img
     src="https://render.gitanimals.org/farms/Yutia-K"
     width="100%"
