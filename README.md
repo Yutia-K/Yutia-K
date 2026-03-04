@@ -2,6 +2,6 @@
   <img
     src="https://render.gitanimals.org/farms/Yutia-K"
     width="600"
-    height="500"
+    height="300"
   />
 </a>
